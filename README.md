@@ -38,4 +38,4 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - HTML
 
 ## View Online
-![View](https://yanniro2.github.io/FrontEndMentor-Challange7)
+[View](https://yanniro2.github.io/FrontEndMentor-Challange7)
