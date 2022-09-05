@@ -1,12 +1,10 @@
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
-
 ## Design
 ![Design](./design/desktop-preview.jpg)
 
 ## Desktop
-![Desktop](./design/desktop-preview.jpg)
+![Desktop](./design/desktop-design.jpg)
 
 ## Mobile
 ![Mobile](./design/mobile-design.jpg)
@@ -38,3 +36,6 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - JavaScript
 - CSS
 - HTML
+
+## View Online
+![View](https://yanniro2.github.io/FrontEndMentor-Challange7https://yanniro2.github.io/FrontEndMentor-Challange7)
