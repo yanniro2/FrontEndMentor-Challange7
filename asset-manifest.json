@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-Challange7/static/css/main.a6fcc778.css",
-    "main.js": "/FrontEndMentor-Challange7/static/js/main.ee471317.js",
+    "main.css": "/FrontEndMentor-Challange7/static/css/main.776c4034.css",
+    "main.js": "/FrontEndMentor-Challange7/static/js/main.5d3e28cd.js",
     "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange7/static/js/787.a97cb00a.chunk.js",
     "static/media/icon-karma.svg": "/FrontEndMentor-Challange7/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
     "static/media/icon-supervisor.svg": "/FrontEndMentor-Challange7/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
     "static/media/icon-team-builder.svg": "/FrontEndMentor-Challange7/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
     "static/media/icon-calculator.svg": "/FrontEndMentor-Challange7/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
     "index.html": "/FrontEndMentor-Challange7/index.html",
-    "main.a6fcc778.css.map": "/FrontEndMentor-Challange7/static/css/main.a6fcc778.css.map",
-    "main.ee471317.js.map": "/FrontEndMentor-Challange7/static/js/main.ee471317.js.map",
+    "main.776c4034.css.map": "/FrontEndMentor-Challange7/static/css/main.776c4034.css.map",
+    "main.5d3e28cd.js.map": "/FrontEndMentor-Challange7/static/js/main.5d3e28cd.js.map",
     "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange7/static/js/787.a97cb00a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6fcc778.css",
-    "static/js/main.ee471317.js"
+    "static/css/main.776c4034.css",
+    "static/js/main.5d3e28cd.js"
   ]
 }
