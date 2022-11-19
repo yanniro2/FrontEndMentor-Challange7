@@ -7,8 +7,8 @@ import img_cal from "./images/icon-calculator.svg";
 function App()
 {
   return (
-    <div className="App w-full h-full flex flex-col justify-center items-center font-popins sm:px-5">
-      <div className="flex flex-col justify-center items-center text-center w-4/5 h-full p-6 sm:w-full sm:p-0 sm:my-10">
+    <div className="App w-screen h-screen flex flex-col justify-center items-center font-popins sm:px-5">
+      <div className="flex flex-col justify-center items-center text-center w-4/5 h-[90%] p-6 sm:w-full sm:p-0 sm:my-10">
         <div className="heading flex flex-col w-4/5 sm:w-full sm:my-10">
           <h3 className="text-large font-thin text-Grayish-Blue ">Reliable, efficient delivery</h3>
 

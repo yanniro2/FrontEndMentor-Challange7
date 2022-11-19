@@ -7,7 +7,7 @@ module.exports = {
     screens: {
       // 'sm':  '375px',
       // 'md': '900px',
-      // 'lg': '1440px',
+      'lg': '1440px',
       'sm': { 'min': '375px', 'max': '600px' }
       // ...defaultTheme.screens,
     },
